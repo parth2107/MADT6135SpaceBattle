@@ -1,0 +1,19 @@
+{
+  "name": "madt6135spacebattle",
+  "version": "1.0.0",
+  "description": "lab test 3",
+  "main": "battlefield.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parth2107/MADT6135SpaceBattle.git"
+  },
+  "author": "Parth Raval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parth2107/MADT6135SpaceBattle/issues"
+  },
+  "homepage": "https://github.com/parth2107/MADT6135SpaceBattle#readme"
+}
